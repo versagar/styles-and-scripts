@@ -1,0 +1,16 @@
+@media only screen and (max-width: 480px){
+ 
+
+.footlink {
+  width: 30vmin;
+}
+
+.footlink a {
+  font-size: 2vmin;
+}
+#fbBtn {
+  font-size: small;
+  height: 4vmin;
+  width: 4vmin;
+  }
+}

@@ -1,0 +1,41 @@
+@media only screen and (max-width:240px){
+  
+  body {
+    overflow: scroll;
+  }  
+    
+ 
+  .wbody {
+    height: auto;
+  }
+  .myFeed {
+    height: auto;
+  }
+  
+  .feed {
+    height: auto;
+    overflow: auto;
+  }
+  .openOv {
+    display: none;
+  }
+  .mblock a {
+    font-size: 8vmin;
+    width: 8vmin;
+    height: auto;
+    padding: 0;
+  }
+  .menu {
+    display: none;
+  }
+}
+
+
+/* for keypad phones of width less than 240 px.
+
+@media only screen and (max-width: 128px) {
+ 
+
+  }
+
+*/
